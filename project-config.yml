@@ -1,0 +1,10 @@
+project:
+  project-id: fl05cb6992f166b3410bbc81
+  project-name: wmio_project_a
+  accounts:
+    GoogleSheets_2409:
+      secrets:
+        - client_id
+        - client_secret
+        - access_token
+        - refresh_token
